@@ -1,0 +1,16 @@
+//--------------------
+// Screen Spacer
+// by Beau C. Pratt
+// 
+// A tool for fixing the visual flicker that happens 
+// when a character is animated in stepped mode with a moving camera.
+//
+//--------------------
+
+python("import screenspacer_Shelf");
+python("reload (screenspacer_Shelf)");
+
+//python("def loadSS(*args):\n\
+//    import screenspacer_Script\n\
+//    reload(screenspacer_Script)\n\
+//");
